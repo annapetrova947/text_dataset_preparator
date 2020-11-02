@@ -1,0 +1,14 @@
+name: dataset_preparator
+description: A new Flutter package.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  csv: ^4.0.3
+
+
+
